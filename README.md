@@ -34,3 +34,4 @@ INSTALLATION
 git clone and go to /web folder
 or php yii serve
 
+<img src="scr.png">
